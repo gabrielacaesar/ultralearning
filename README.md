@@ -7,7 +7,7 @@
 - o objetivo 3 é concluir [a carreira de 'cientista de dados' com Python](https://learn.datacamp.com/career-tracks/data-scientist-with-python)        
 - o objetivo 4 é concluir [a carreira de 'programador' com Python](https://learn.datacamp.com/career-tracks/python-programmer)        
 
-##### o deadline é 31 de dezembro de 2020
+#### o deadline é 31 de dezembro de 2020
   
 | Week | Day of the week | Day | Month | Year | Language |    Topic    | Minutes | Certificate |  
 |------|-----------------|-----|-------|------|----------|-------------|---------|-------------|
