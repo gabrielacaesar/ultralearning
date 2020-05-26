@@ -9,6 +9,6 @@
 
 #### o deadline é 31 de dezembro de 2020
   
-| Week | Day of the week | Day | Month | Year | Hour Start | Hour End  | Language    |    Topic    | 
-|------|-----------------|-----|-------|------|------------|-----------|-------------|-------------|
-|  1   |      Monday     |  25 | Mai   | 2020 |    21:10   |   23:10   |    Python   |Introduction to Data Science in Python|    
+| Week | Day_of_the_week | Day | Month | Year | Hour_start | Hour_end  |  Language   |    Topic    |  Certificate  |
+|------|-----------------|-----|-------|------|------------|-----------|-------------|-------------|---------------|
+|  1   |      Monday     |  25 | Mai   | 2020 |    21:10   |   23:10   |    Python   |Introduction to Data Science in Python|  [PDF_file](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Introduction-to-Data-Science-in-Python.pdf)
