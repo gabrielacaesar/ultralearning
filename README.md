@@ -9,8 +9,6 @@
 
 #### o deadline é 31 de dezembro de 2020
   
-| Week | Day of the week | Day | Month | Year | Language |    Topic    | Minutes | Certificate |  
-|------|-----------------|-----|-------|------|----------|-------------|---------|-------------|
-|  1   |      Monday     |  1  | June  | 2020 |          |             |         |             |              
-|  1   |      Tuesday    |  2  | June  | 2020 |          |             |         |             |              
-
+| Week | Day of the week | Day | Month | Year | Hour Start | Hour End  | Language    |    Topic    | 
+|------|-----------------|-----|-------|------|------------|-----------|-------------|-------------|
+|  1   |      Monday     |  25 | Mai   | 2020 |    21:10   |   23:10   |    Python   |Introduction to Data Science in Python|    
