@@ -12,3 +12,4 @@
 | Week | Day_of_the_week | Day | Month | Year | Hour_start | Hour_end  |  Language   |    Topic    |  Certificate  |
 |------|-----------------|-----|-------|------|------------|-----------|-------------|-------------|---------------|
 |  1   |      Monday     |  25 | Mai   | 2020 |    21:10   |   23:10   |    Python   |Introduction to Data Science in Python|  [PDF_file](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Introduction-to-Data-Science-in-Python.pdf)
+|  1   |      Tuesday    |  26 | Mai   | 2020 |    21:30   |   22:30   |    Python   | Data Types for Data Science in Python|  x
