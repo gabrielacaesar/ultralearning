@@ -15,5 +15,5 @@
 |  1   |      Tuesday    |  26 | Mai   | 2020 |    21:30   |   22:00   |    Python   | Data Types for Data Science in Python|  x
 |  2   |      Monday     |  1  | June  | 2020 |    23:00   |   00:15   |    Python   |          Intermediate Python         |  x
 |  2   |      Tuesday    |  2  | June  | 2020 |    23:30   |   01:00   |    Python   |          Intermediate Python         |  x
-|  2   |      Wednesday  |  3  | June  | 2020 |    10:30   |   11:10   |    Python   |          Intermediate Python         |  [PDF file]()
+|  2   |      Wednesday  |  3  | June  | 2020 |    10:30   |   11:10   |    Python   |          Intermediate Python         |  [PDF file](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Intermediate-Python-gabriela-caesar.pdf)
 
