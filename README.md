@@ -18,4 +18,4 @@
 |  2   |      Wednesday  |  3  | June  | 2020 |    10:30   |   11:10   |    Python   |          Intermediate Python         |  [PDF file](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Intermediate-Python-gabriela-caesar.pdf)
 |  3   |      Monday     |  8  | June  | 2020 |    22:30   |   23:15   |    Python   |          Data manipulation with Pandas | x
 |  4   |      Monday     |  15  | June  | 2020 |    23:15   |   00:00   |     R      | Building web applications with Shiny in R | x
-
+|  4   |      Wednesday  |  17  | June  | 2020 |    00:30   |   00:45   |     R      | Building web applications with Shiny in R | x
