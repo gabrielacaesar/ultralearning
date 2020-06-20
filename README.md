@@ -19,3 +19,5 @@
 |  3   |      Monday     |  8  | June  | 2020 |    22:30   |   23:15   |    Python   |          Data manipulation with Pandas | x
 |  4   |      Monday     |  15  | June  | 2020 |    23:15   |   00:00   |     R      | Building web applications with Shiny in R | x
 |  4   |      Wednesday  |  17  | June  | 2020 |    00:30   |   00:45   |     R      | Building web applications with Shiny in R | x
+|  4   |      Saturday   |  20  | June  | 2020 |    09:00   |   18:00   |     R      | API, docker and Google Cloud            | x
+
