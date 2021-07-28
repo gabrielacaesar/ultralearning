@@ -16,7 +16,10 @@
   
 | Week | Day_of_the_week | Day | Month | Year | Hour_start | Hour_end  |  Language   |    Topic    |  Certificate  |
 |------|-----------------|-----|-------|------|------------|-----------|-------------|-------------|---------------|
-|  1   |      Tuesday    |  26 | Jul   | 2021 |    xx:xx   |   xx:xx   |    Python   | Data Manipulation with pandas|  [PDF file](https://github.com/gabrielacaesar/blogdown2/blob/master/static/gabriela-caesar-data-manipulation-with-pandas.pdf)     
+|  1   |      Tuesday    |  27 | Jul   | 2021 |    xx:xx   |   xx:xx   |    Python   | Data Manipulation with pandas|  [PDF file](https://github.com/gabrielacaesar/blogdown2/blob/master/static/gabriela-caesar-data-manipulation-with-pandas.pdf)     
+|  1   |      Wednewsday    |  28 | Jul   | 2021 |    xx:xx   |   xx:xx   |    Python   | Joining Data with pandas |  X  
+
+
 
 
 # 2020.1
